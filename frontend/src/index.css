@@ -79,7 +79,7 @@ code {
   }
   
   .product-card {
-    @apply group relative overflow-hidden bg-transparent transition-all duration-500 cursor-pointer;
+    @apply relative overflow-hidden bg-transparent transition-all duration-500 cursor-pointer;
   }
   
   .product-card:hover img {
