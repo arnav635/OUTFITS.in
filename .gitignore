@@ -15,6 +15,11 @@ node_modules/
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+node_modules
+.emergent
+.env
+~$*
+
 
 # Testing
 /coverage
@@ -78,3 +83,4 @@ agenthub/agents/youtube/db
 
 # Mobile development
 android-sdk/ frontend/node_modules/.cache/default-development/0.pack
+frontend/node_modules/.cache/default-development/0.pack
